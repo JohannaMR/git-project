@@ -1,2 +1,6 @@
 # uusi rivi, muutettu. Ensimmäinen mergeni.
+<<<<<<< HEAD
 Terveisiä mun koneelta.
+=======
+Terveisiä GitHubista. 
+>>>>>>> 3aceaca... Update lapio_vko2.txt
